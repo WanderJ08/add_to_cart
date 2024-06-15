@@ -58,8 +58,9 @@ header{
     font-size: 1rem;
 }
 .listProduct .item .price{
-    letter-spacing: 7px;
+    letter-spacing: 2px;
     font-size: small;
+    font-weight: 700;
 }
 .listProduct .item button{
     background-color: #353432;
