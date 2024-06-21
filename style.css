@@ -4,7 +4,7 @@ body {
   background-color: #ededed;
 }
 .container {
-  width: 900px;
+  width: 1200px;
   margin: auto;
   max-width: 90vw;
   text-align: center;
@@ -42,7 +42,7 @@ header {
   font-weight: 700;
 }
 .listProduct .item img {
-  width: 90%;
+  width: 100%;
   filter: drop-shadow(0 50px 20px #0009);
 }
 .listProduct {
